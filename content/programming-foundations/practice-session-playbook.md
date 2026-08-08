@@ -8,10 +8,11 @@ Text in quotes is what you say out loud.
 
 ## Before students arrive (5 min)
 
-1. **Projector** — the practice URL on screen, large. The actual page, not a menu.
-2. **Board** — draw the progress tracker.
-3. **Timer** — visible countdown on the projector.
-4. **Red slips** — a stack of red paper slips at the end of each row.
+1. **Board** — draw the progress tracker.
+2. **Timer** — visible countdown on the projector.
+3. **Red slips** — a stack of red paper slips at the end of each row.
+
+> **Students already know where the practice lives.** They open the learning portal on their own laptops and navigate to today's practice from the course contents — you don't project a URL and they don't need one. Your job at launch is to make sure everyone is actually *on* it, not to tell them where it is.
 
 **Progress board:** one column per pod, one row per problem. Anchors add a tick when a member finishes. No names — counts only.
 
@@ -80,7 +81,7 @@ Tell anchors once: *"You are not a tutor. You are not expected to know the answe
 
 Stand at the front. Do not start until the room is quiet.
 
-> *"Laptops open. Go to the URL on the screen — right now, all of you. I'm going to look at the room in thirty seconds and I want to see the same page on every screen."*
+> *"Laptops open, learning portal, today's practice. Right now, all of you. I'm going to look at the room in thirty seconds and I want to see that page on every screen."*
 
 Wait the thirty seconds. Scan the room. Say what you see:
 
