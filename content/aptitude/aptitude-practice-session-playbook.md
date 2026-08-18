@@ -20,11 +20,12 @@ This is deliberate. A student stuck for a few minutes, thinking, re-reading, try
 
 ## Before students arrive (5 min)
 
-1. **Question set on screen or on desks** — shared doc link projected large, or printed sheets already at every seat. Same set for the whole room.
-2. **Board** — draw the check-history table (see *The check*, below). That's the only thing that goes on the board before the session starts.
-3. **Timer** — visible countdown, projected or on the board.
-4. **Answer key** — ready, but not visible. It surfaces only at the exit gate.
-5. **Your spot** — front of the room, or a fixed desk. Pick one and stay there. You move only when a student calls you up to it — never the other way round.
+1. **Board** — draw the check-history table (see *The check*, below). That's the only thing that goes on the board before the session starts.
+2. **Timer** — visible countdown, projected or on the board.
+3. **Answer key** — ready, but not visible. It surfaces only at the exit gate.
+4. **Your spot** — front of the room, or a fixed desk. Pick one and stay there. You move only when a student calls you up to it — never the other way round.
+
+> **Students already know where the question set lives.** They open the learning portal on their own laptops and navigate to today's practice from the course contents — nothing to project, nothing to hand out. Your job at launch is to confirm everyone is actually *on* it, not to tell them where it is.
 
 ---
 
@@ -93,7 +94,7 @@ Run a check at roughly every quarter of the session — three checks minimum for
 
 Stand at your fixed spot. Don't start until the room is quiet.
 
-> *"Question set's on the screen — open it now, all of you. I'll give you thirty seconds."*
+> *"Laptops open, learning portal, today's question set. Open it now, all of you. I'll give you thirty seconds."*
 
 Wait the thirty seconds. Scan the room, say what you see:
 
