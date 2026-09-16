@@ -1,7 +1,7 @@
 # Lesson Plans
 
-Static site of instructor lesson plans and student worksheets for NxtWave
-Programming Foundations sessions.
+Static site of instructor lesson plans for NxtWave Programming Foundations
+sessions.
 
 Every page is a single self-contained HTML file — slide images are inlined as
 base64, styles and scripts are embedded. There is no build step and no
@@ -13,10 +13,8 @@ dependencies.
 index.html                              landing page, links every session
 plans/programming-foundations/
   11-nested-conditional-statements-plan.html
-  11-nested-conditional-statements-worksheet.html
   12-loops-plan.html
   15-string-methods-plan.html
-  15-string-methods-worksheet.html
 vercel.json                             static config (cleanUrls)
 ```
 
